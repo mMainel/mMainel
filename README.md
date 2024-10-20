@@ -102,7 +102,7 @@ I am highly detail-oriented and capable of quickly adapting to new concepts, too
 
 ### 🗄️ **Databases**
 - **MySQL**
-- **Postgree**
+- **Postgresql**
 - **SQLite**
 
 ### 🐳 **Devops**
