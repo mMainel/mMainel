@@ -41,7 +41,7 @@ I am highly detail-oriented and capable of quickly adapting to new concepts, too
 ## 🎓 Education
 
 **Information Systems**  
-*Federal Fluminense University (UFF)*  
+*Universidade Federal Fluminense (UFF)*  
 - Start Date: 2024/2  
 - Expected Graduation: 2026/2  
 
